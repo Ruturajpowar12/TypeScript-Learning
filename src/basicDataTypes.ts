@@ -14,7 +14,7 @@ let isAdmin : boolean = true
 const names : string[] = ["ruturaj","piyush","swarup"]
 const rollNo : number[] = [101,201,34]
 
-//any
+//any  // mostly avoid
 let data: any = 10
 
 data = "hello"
